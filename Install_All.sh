@@ -84,6 +84,7 @@ software_list=(
   "python-pip"
   "mongodb"
   "gnupg"
+  "zoom"
   "telegram-desktop"
   "mongodb-compass"
   "postman"
