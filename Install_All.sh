@@ -66,7 +66,7 @@ install_if_not_installed() {
   fi
 }
 
-# Install various software packages
+# Install various software packages that are very major 
 software_list=(
   "visual-studio-code-bin"
   "microsoft-edge-stable-bin"
