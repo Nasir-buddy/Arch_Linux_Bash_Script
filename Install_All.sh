@@ -91,6 +91,7 @@ software_list=(
   "htop"
   "thunderbird"
   "slack-desktop"
+  "anydesk"
   "coreimage"
 )
 
