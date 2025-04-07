@@ -92,6 +92,7 @@ software_list=(
   "thunderbird"
   "slack-desktop"
   "anydesk"
+  "gnupg"
   "coreimage"
 )
 
